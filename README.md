@@ -1,4 +1,4 @@
-# Laba1WEB
+# Lab1WEB
 Лабораторная №1
 Зробити html сторінку - статтю у вільній формі (приклад вікі https://ru.wikipedia.org/wiki/%D0%95%D0%BD%D0%BE%D1%82-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D1%83%D0%BD) .).
 вимоги:
